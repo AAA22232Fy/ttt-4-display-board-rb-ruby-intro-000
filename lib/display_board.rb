@@ -6,4 +6,4 @@ def display_board(x)
   puts "   ""|""   ""|""   "
   puts "-----------"
   puts "   ""|""   ""|""   "
-entered
+entered x=2
